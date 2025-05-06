@@ -1,4 +1,4 @@
-# LSTM-CNN-Code
+# CNN-LSTM-Code
 
 This code implements a hybrid CNN-LSTM deep learning model aimed at classifying images into two categories. The model first uses convolutional neural networks (CNNs) to extract spatial features from input images, followed by a long short-term memory (LSTM) layer that helps model sequential dependencies within the extracted features. This architecture is particularly useful when spatial and temporal characteristics of the data both influence the output.
 
